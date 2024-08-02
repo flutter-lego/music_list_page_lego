@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zXXHvAXCug)
 [![](https://img.shields.io/badge/KakaoTalk-Join%20Room-FEE500?style=for-the-badge&logo=kakao)](https://open.kakao.com/o/gEwrffbg)
 # music_list_page_lego
+<img src="https://github.com/juneview-songdo/music_list_page/assets/21379657/ed4565c7-237d-4e63-aee0-e101d022fbbd" width="200" alt="toss_intro_page_lego">
 
 
 ## Installation
